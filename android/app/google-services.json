@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881152446197",
+    "project_id": "to-do-ca1fa",
+    "storage_bucket": "to-do-ca1fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881152446197:android:9b92044cf33af971b67fbc",
+        "android_client_info": {
+          "package_name": "com.example.daily_tasks_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANH1__pNuQdmiqr2K2eJt8v6idhESeF_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
